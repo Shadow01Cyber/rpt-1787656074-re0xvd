@@ -1,0 +1,7 @@
+VIOLATION REPORT — @demo_target_ch
+
+ESCALATION: @demo_target_ch crossing into illegal territory. Response needed within hours.
+
+Violation: Phishing. Bulk messaging logs show unsolicited targeting of minors.
+
+Ref: https://t.me/s/demo_target_ch
