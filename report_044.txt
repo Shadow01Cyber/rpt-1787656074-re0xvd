@@ -1,0 +1,7 @@
+VIOLATION REPORT — @demo_target_ch
+
+yo, can someone look at @demo_target_ch? pretty sure it's a scam operation.
+
+Violation: Phishing. Community members have repeatedly flagged the subject for coordinated fraud.
+
+Ref: https://osint.vault/kc1xl6c8
