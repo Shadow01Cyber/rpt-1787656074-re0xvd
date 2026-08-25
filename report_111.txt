@@ -1,0 +1,1 @@
+Report: @demo_target_ch — Phishing. Linked infrastructure resolves to a known phishing kit deployment. (https://osint.vault/qs9i4auk)
