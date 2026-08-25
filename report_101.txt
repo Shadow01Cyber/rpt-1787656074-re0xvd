@@ -1,0 +1,7 @@
+VIOLATION REPORT — @demo_target_ch
+
+Notice is hereby given regarding repeated misconduct documented against the subject channel.
+
+Violation: Phishing. The content circumvents regional takedown orders via mirror channels.
+
+Ref: https://osint.vault/g7tgj65w
