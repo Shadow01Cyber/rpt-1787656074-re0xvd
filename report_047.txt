@@ -1,0 +1,7 @@
+VIOLATION REPORT — @demo_target_ch
+
+Enough. @demo_target_ch has been reported a dozen times and you've done NOTHING. Act now.
+
+Violation: Phishing. Linked infrastructure resolves to a known phishing kit deployment.
+
+Ref: https://abuse-feed.io/report/uax6i9vw
