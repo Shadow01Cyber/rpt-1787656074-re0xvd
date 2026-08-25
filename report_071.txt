@@ -1,0 +1,7 @@
+VIOLATION REPORT — @demo_target_ch
+
+Notice is hereby given regarding repeated misconduct documented against the subject channel.
+
+Violation: Phishing. Bulk messaging logs show unsolicited targeting of minors.
+
+Ref: https://osint.vault/jiju6uek
