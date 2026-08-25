@@ -1,0 +1,7 @@
+VIOLATION REPORT — @demo_target_ch
+
+ESCALATION: @demo_target_ch crossing into illegal territory. Response needed within hours.
+
+Violation: Phishing. The channel funnels victims into an off-platform payment scheme.
+
+Ref: https://osint.vault/udprpk8l
