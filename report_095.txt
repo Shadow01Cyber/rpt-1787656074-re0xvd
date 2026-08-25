@@ -1,0 +1,7 @@
+VIOLATION REPORT — @demo_target_ch
+
+ESCALATION: @demo_target_ch crossing into illegal territory. Response needed within hours.
+
+Violation: Phishing. The operator rotates aliases to evade prior enforcement actions.
+
+Ref: https://paste.example/intel/la956ne2
