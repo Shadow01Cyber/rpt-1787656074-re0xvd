@@ -1,0 +1,7 @@
+VIOLATION REPORT — @demo_target_ch
+
+The subject account shows a pattern of behavior inconsistent with platform rules.
+
+Violation: Phishing. Bot-driven amplification masks the true reach of the operation.
+
+Ref: https://t.me/demo_target_ch
