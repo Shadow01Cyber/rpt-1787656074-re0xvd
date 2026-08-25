@@ -1,0 +1,18 @@
+💢 NOTICE OF VIOLATION
+
+TIME-SENSITIVE: @demo_target_ch linked a live phishing payload. Block before more victims.
+
+The specific violation: Phishing
+
+The operator rotates aliases to evade prior enforcement actions.
+
+Core violation on record: Phishing. No enforcement action has followed despite multiple prior submissions.
+
+References:
+→ @demo_target_ch
+→ https://osint.vault/mmuz6mpt
+→ https://t.me/demo_target_ch/5
+
+Logged: 2026-08-25
+
+Failure to act may result in further legal escalation and continued harm to platform users.
