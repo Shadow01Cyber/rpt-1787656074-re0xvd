@@ -1,0 +1,7 @@
+VIOLATION REPORT — @demo_target_ch
+
+ESCALATION: @demo_target_ch crossing into illegal territory. Response needed within hours.
+
+Violation: Phishing. The content circumvents regional takedown orders via mirror channels.
+
+Ref: https://web.archive.org/web/2026/demo_target_ch
