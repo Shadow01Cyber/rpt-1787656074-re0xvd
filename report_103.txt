@@ -1,0 +1,18 @@
+🔥 NOTICE OF VIOLATION
+
+Multiple independent sources confirm abusive activity on @demo_target_ch requiring review.
+
+The specific violation: Phishing
+
+Archived screenshots demonstrate intent to deceive vulnerable users.
+
+Core violation on record: Phishing. No enforcement action has followed despite multiple prior submissions.
+
+References:
+→ @demo_target_ch
+→ https://osint.vault/z9it11si
+→ https://t.me/demo_target_ch/5
+
+Logged: 2026-08-25
+
+Failure to act may result in further legal escalation and continued harm to platform users.
