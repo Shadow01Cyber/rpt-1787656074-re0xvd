@@ -1,0 +1,7 @@
+VIOLATION REPORT — @demo_target_ch
+
+hey, just wanted to flag @demo_target_ch — been seeing some shady stuff there.
+
+Violation: Phishing. Automated fingerprinting links this handle to a known abuse cluster.
+
+Ref: https://t.me/s/demo_target_ch
