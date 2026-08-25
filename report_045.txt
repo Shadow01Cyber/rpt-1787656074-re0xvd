@@ -1,0 +1,1 @@
+Report: @demo_target_ch — Phishing. The operator rotates aliases to evade prior enforcement actions. (https://osint.vault/wp0weptc)
